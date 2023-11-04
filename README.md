@@ -21,8 +21,8 @@ We create two networks , one for encoding and one for decoding.
 
 ## PROGRAM
 ```
-Developed By: Vishal Gowthaman K R
-Register Number: 212221230123
+Developed By: SV ROHITHTKUMAR
+Register Number: 212221230084
 ```
 ```python
 from tensorflow import keras
